@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5671132-e256-40c9-a535-9b3a65524b25" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/images/fc71ef8d-6429-4788-b506-bc9934190d7clp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/project.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/GeekMarketWinterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/CustomAuthenticationSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/MailConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/SecurityWebApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/CartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ProfileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/RegistrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ShopController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/DeliveryAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/ProductDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/ProductImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/SystemUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/examples/CookieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/paypal/PayPalController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/DeliveryAddressRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/OrderStatusRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/TestRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/UserRepositorySlqO2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/specifications/ProductSpecs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/DeliveryAddressService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ImageSaverService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/MailMessageBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/MailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/OrderStatusService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ShoppingCartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/tasks/CheckTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/utils/DataSourceProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/utils/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/EmailValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/FieldMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/FieldMatchValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/ValidEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/proto/HelloService.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/connection.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/db/migration/V1__initialize.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/flyway.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/static/images/1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/admin-panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/cart-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/edit-product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-filler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/orders-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/page-success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/registration-confirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/registration-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/shop-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/std-head.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/GeekMarketWinterApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/MainControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/SimpleMockTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/UserServiceTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="c8aac4aa7e18020e9887d981498b656ac2c94336" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/spring-market/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/messages.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-market/spring-market.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/messages_en.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-market/src/main/java/com/geekbrains/springmarket/SpringMarketApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/private.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/flyway.conf" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/connection.properties" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29fMiMDgEw1eQykxPWA4XrjLAwe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GeekMarketWinterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-market" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbrains.springmarket.SpringMarketApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5671132-e256-40c9-a535-9b3a65524b25" name="Changes" comment="" />
+      <created>1653499817528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653499817528</updated>
+      <workItem from="1653499823879" duration="816000" />
+      <workItem from="1653500730901" duration="222000" />
+      <workItem from="1653502631639" duration="670000" />
+      <workItem from="1653503378769" duration="5343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

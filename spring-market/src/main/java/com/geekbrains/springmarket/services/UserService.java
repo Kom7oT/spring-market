@@ -1,0 +1,10 @@
+package com.geekbrains.springmarket.services;
+
+import com.geekbrains.springmarket.entites.SystemUser;
+import com.geekbrains.springmarket.entites.User;
+import org.springframework.security.core.userdetails.UserDetailsService;
+
+public interface UserService extends UserDetailsService {
+    User findByUserName(String username);
+    boolean save(SystemUser systemUser);
+}
