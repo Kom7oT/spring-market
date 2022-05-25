@@ -4,102 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5671132-e256-40c9-a535-9b3a65524b25" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/images/fc71ef8d-6429-4788-b506-bc9934190d7clp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/project.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/GeekMarketWinterApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/CustomAuthenticationSuccessHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/MailConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/SecurityWebApplicationInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/AdminController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/CartController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/LoginController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/MainController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ProfileController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/RegistrationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ShopController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/DeliveryAddress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/OrderStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/ProductDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/ProductImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/SystemUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/examples/CookieController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/paypal/PayPalController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/CategoryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/DeliveryAddressRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/OrderStatusRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/RoleRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/TestRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/UserRepositorySlqO2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/specifications/ProductSpecs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/CategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/DeliveryAddressService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ImageSaverService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/MailMessageBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/MailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/OrderStatusService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ShoppingCartService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/tasks/CheckTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/utils/DataSourceProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/utils/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/EmailValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/FieldMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/FieldMatchValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/ValidEmail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/proto/HelloService.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/connection.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/db/migration/V1__initialize.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/flyway.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/messages_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/static/images/1.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/admin-panel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/cart-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/edit-product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-filler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/orders-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/page-success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/registration-confirmation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/registration-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/shop-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/std-head.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/GeekMarketWinterApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/MainControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/SimpleMockTesting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/UserServiceTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c5671132-e256-40c9-a535-9b3a65524b25" name="Changes" comment="Lesson 2: Добавление товаров" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,8 +101,23 @@
       <workItem from="1653499823879" duration="816000" />
       <workItem from="1653500730901" duration="222000" />
       <workItem from="1653502631639" duration="670000" />
-      <workItem from="1653503378769" duration="5343000" />
+      <workItem from="1653503378769" duration="5927000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson 2: Добавление товаров">
+      <created>1653509115039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653509115039</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson 2: Добавление товаров">
+      <created>1653509329997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653509329997</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 2: Добавление товаров" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2: Добавление товаров" />
   </component>
 </project>
