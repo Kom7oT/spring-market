@@ -56,7 +56,7 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    @Transactional
+//    @Transactional
     public boolean save(SystemUser systemUser) {
         User user = new User();
 

@@ -43,7 +43,8 @@ public class ProductService {
         return productRepository.findOneByTitle(productTitle) != null;
     }
 
-    public void saveProduct(Product product) {
+    public boolean saveProduct(Product product) {
         productRepository.save(product);
+        return true;
     }
 }
