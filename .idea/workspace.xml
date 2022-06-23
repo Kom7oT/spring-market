@@ -4,101 +4,136 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5671132-e256-40c9-a535-9b3a65524b25" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/images/fc71ef8d-6429-4788-b506-bc9934190d7clp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/project.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/GeekMarketWinterApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/CustomAuthenticationSuccessHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/MailConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/config/SecurityWebApplicationInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/AdminController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/CartController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/LoginController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/MainController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ProfileController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/RegistrationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/controllers/ShopController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/DeliveryAddress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/OrderStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/ProductDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/ProductImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/SystemUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/entites/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/examples/CookieController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/paypal/PayPalController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/CategoryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/DeliveryAddressRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/OrderStatusRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/RoleRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/TestRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/UserRepositorySlqO2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/repositories/specifications/ProductSpecs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/CategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/DeliveryAddressService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ImageSaverService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/MailMessageBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/MailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/OrderStatusService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/ShoppingCartService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/services/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/tasks/CheckTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/utils/DataSourceProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/utils/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/EmailValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/FieldMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/FieldMatchValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/java/com/geekbrains/geekmarketwinter/validation/ValidEmail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/proto/HelloService.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/connection.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/db/migration/V1__initialize.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/flyway.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/messages_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/static/images/1.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/admin-panel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/cart-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/edit-product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-filler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/order-result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/orders-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/page-success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/registration-confirmation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/registration-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/shop-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/main/resources/templates/std-head.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/GeekMarketWinterApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/MainControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/SimpleMockTesting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-market-winter-sql2o/src/test/java/com/geekbrains/geekmarketwinter/UserServiceTest.java" beforeDir="false" />
+    <list default="true" id="c5671132-e256-40c9-a535-9b3a65524b25" name="Changes" comment="Lesson 2: Добавление товаров">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_1_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_paypal_sdk_rest_api_sdk_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_api_1_26_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_26_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_26_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_26_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_26_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_26_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_26_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_metrics_0_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_perfmark_perfmark_api_0_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_flywaydb_flyway_core_5_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sql2o_sql2o_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_springsecurity5_3_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-market/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-market/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-market/src/main/java/com/geekbrains/springmarket/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-market/src/main/java/com/geekbrains/springmarket/config/AppConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +142,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -123,7 +165,6 @@
     <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-market/spring-market.iml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/messages_en.properties" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/spring-market/src/main/java/com/geekbrains/springmarket/SpringMarketApplication.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/private.properties" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/flyway.conf" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spring-market/src/main/resources/connection.properties" root0="FORCE_HIGHLIGHTING" />
@@ -168,8 +209,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-aop-demo" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
@@ -196,8 +238,31 @@
       <workItem from="1653499823879" duration="816000" />
       <workItem from="1653500730901" duration="222000" />
       <workItem from="1653502631639" duration="670000" />
-      <workItem from="1653503378769" duration="5343000" />
+      <workItem from="1653503378769" duration="6175000" />
+      <workItem from="1653669343143" duration="20079000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson 2: Добавление товаров">
+      <created>1653509115039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653509115039</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson 2: Добавление товаров">
+      <created>1653509329997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653509329997</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson 2: Добавление товаров">
+      <created>1653509623337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653509623337</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,5 +281,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 2: Добавление товаров" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2: Добавление товаров" />
   </component>
 </project>
