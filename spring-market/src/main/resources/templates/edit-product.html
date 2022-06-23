@@ -92,6 +92,8 @@
                         <div class="form-group">
                             <button type="submit" name="addProduct" class="btn btn-primary btn-block">Сохранить</button>
                         </div>
+                        <input th:field="*{createAt}" type="hidden" class="form-control">
+                        <input th:field="*{updateAt}" type="hidden" class="form-control">
                     </form>
                 </article>
             </div>

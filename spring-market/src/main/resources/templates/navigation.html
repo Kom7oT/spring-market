@@ -60,6 +60,13 @@
                             <button class="btn btn-secondary btn-sm" type="submit">Войти</button>
                         </div>
                     </form>
+                <li sec:authorize="isAnonymous()" class="nav-item">
+                    <form class="align-middle" th:action="@{/register/showRegistrationForm}" method="GET">
+                        <div class="input-group-prepend">
+                            <button class="btn btn-secondary btn-sm" type="submit">Регистрация</button>
+                        </div>
+                    </form>
+                </li>
                 </li>
             </ul>
         </div>

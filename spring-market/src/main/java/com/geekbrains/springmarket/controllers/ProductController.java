@@ -45,6 +45,7 @@ public class ProductController {
             product.setId(0L);
         }
         model.addAttribute("product", product);
+
         model.addAttribute("categories", categoryService.getAllCategories());
         return "/edit-product";
     }

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<html xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
 <head>
     <meta charset="utf-8"/>
 
@@ -59,6 +60,7 @@
             <td th:text="${product.price}"/>
             <td>
                 <a th:href="@{'/shop/cart/add/' + ${product.id}}" class="btn btn-primary">Добавить в корзину</a>
+                <a sec:authorize="hasRole('ADMIN')" th:href="@{'/products/edit/' + ${product.id}}" class="btn btn-primary">Изменить товар</a>
             </td>
         </tr>
         </tbody>

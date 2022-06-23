@@ -28,7 +28,7 @@ public class OrderService {
         this.orderStatusService = orderStatusService;
     }
 
-    @Transactional
+//    @Transactional
     public Order makeOrder(ShoppingCart cart, User user) {
         Order order = new Order();
         order.setId(0L);
